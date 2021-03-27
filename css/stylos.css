@@ -1,9 +1,5 @@
 body{
-<<<<<<< HEAD
-    color: blue;
-=======
     color: red;
->>>>>>> development
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -45,3 +41,5 @@ body{
 #post{
     padding: 1em;
 }
+
+/*  */
